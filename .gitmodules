@@ -13,3 +13,6 @@
 [submodule "Week_11"]
 	path = Week_11
 	url = git@github.com:jokswer/Week_11.git
+[submodule "SimplePlatformer"]
+	path = SimplePlatformer
+	url = git@github.com:jokswer/SimplePlatformer.git
